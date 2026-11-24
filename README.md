@@ -1,9 +1,8 @@
-# SkyCast Weather (By team Twin Titans)
+# SkyCast Weather
 
-<!-- Twin Titans - Anirudh & Charukhan -->
+**A team project by Twin Titans: Anirudh & Charukhan**
 
 A local weather dashboard written in Python, using only the standard library (no `pip install` needed). It shows live forecasts and air quality for any city, and includes an **Activity Window Finder** that suggests the best times in the next 48 hours for running, drying clothes, commuting on a two-wheeler, crop spraying and stargazing.
-
 
 ## Features
 
@@ -53,7 +52,7 @@ Each activity is defined as data, not separate code:
 
 The app slides a window over the next 48 hours, scores every possible slot, and shows the top 3 slots that don't overlap.
 
-These thresholds are my own rule-of-thumb values for a demo project. They are not official meteorological or agricultural guidance.
+These thresholds are our own rule-of-thumb values for a demo project. They are not official meteorological or agricultural guidance.
 
 ## API endpoints
 
@@ -83,7 +82,13 @@ README.md
 
 There are no accounts, tracking or API keys. The city coordinates you look up are sent to Open-Meteo to get the weather. Your saved cities stay in your own browser's local storage.
 
+## Team: Twin Titans
+
+This project was built and is owned by a team of two:
+
+- **Anirudh R**, [@anirudhr-05](https://github.com/anirudhr-05)
+- **Charukhan**, [@Charukhan23]((https://github.com/Charukhan23))
+
 ## Credits
 
 Weather, air-quality and geocoding data by [Open-Meteo.com](https://open-meteo.com/).
-
