@@ -1,5 +1,7 @@
 # SkyCast Weather (By team Twin Titans)
 
+(<!-- Twin Titans - Anirudh & Charukhan -->).
+
 A local weather dashboard written in Python, using only the standard library (no `pip install` needed). It shows live forecasts and air quality for any city, and includes an **Activity Window Finder** that suggests the best times in the next 48 hours for running, drying clothes, commuting on a two-wheeler, crop spraying and stargazing.
 
 
